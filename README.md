@@ -5,9 +5,7 @@
 ## 🚀 Features
 - 2 Player Game
 - Restart Option
-- Random Background Images
-- Hover Effects & Animations
-
+- 
 ## 🛠️ Tech Used
 - HTML
 - CSS
