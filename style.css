@@ -30,7 +30,7 @@ body {
 }
 
 .cell:hover {
-    background-color: rgb(55, 53, 175);
+    background-color: rgb(187, 207, 113);
     transform: scale(0.9);
     box-shadow: 0 0 10px cyan,0 0 20px cyan;
 }
