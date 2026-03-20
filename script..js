@@ -1,3 +1,4 @@
+alert("New version loaded");
 const backgrounds = [
     "bg1.jpg",
     "bg2.jpg",
