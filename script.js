@@ -10,6 +10,9 @@ function changeBackground() {
     let selectedBg = backgrounds[randomIndex];
 
     document.body.style.backgroundImage = `url('${selectedBg}')`;
+    document.body.style.backgroundSize = "cover";
+document.body.style.backgroundPosition = "center";
+document.body.style.backgroundRepeat = "no-repeat";
 }
 let board = ["", "", "", "", "", "", "", "", ""];
 let currentPlayer = "X";
